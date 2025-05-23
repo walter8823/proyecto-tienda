@@ -31,4 +31,4 @@ productos = [
 ]
 
 productos_collection.insert_many(productos)
-print("✅ Productos insertados correctamente")
+print(" Productos insertados correctamente")
